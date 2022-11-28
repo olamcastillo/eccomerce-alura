@@ -1,0 +1,26 @@
+// all Variables
+export const scrollBar = document.querySelector(".scroll-tracker")
+export const fatured_container = document.querySelector(".grid-display")
+export const nextSlide = document.getElementById("next-slide")
+export const footerIcons = document.querySelectorAll(".link a i")
+export const toTop = document.querySelector(".to-top")
+export let allProducts = []
+export const itemCollecton = document.querySelector(".item-collection")
+export let cart = []
+export const selectProduct = document.querySelectorAll(".select-product")
+export const searchBox = document.querySelector(".form-control")
+export const dropDown = document.querySelector(".dropdown-menu")
+export const cartTotal = document.querySelector(".total-amount")
+export const count = document.querySelector(".count")
+export const showCart = document.querySelector("#cart-icons-nav")
+export const cartOverlay = document.querySelector(".cart-overlay")
+export const cartSection = document.querySelector(".cart")
+export const cartItems = document.querySelector(".cart-items")
+export const closeCart = document.querySelector(".close-cart")
+export const clearCartItem = document.querySelector(".clear-all")
+export const navLinks = document.querySelector("#nav-links-container")
+export const navToggler = document.querySelector("#navbar-toggler")
+export const navShop = document.querySelector("#nav-shop")
+
+export let eachButton = []
+
